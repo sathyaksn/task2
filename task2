@@ -1,6 +1,6 @@
 1.write a blog on the difference between document &window objects?
 
-               Document	                   Window 
+               Document	                                  Window 
 1)It represent any HTML or web page
  that is loaded in the browser	
                                     1)It represent a browser or frame that displays the contents of the webpage
