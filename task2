@@ -1,0 +1,28 @@
+1.write a blog on the difference between document &window objects?
+
+               Document	                   Window 
+1)It represent any HTML or web page
+ that is loaded in the browser	
+                                    1)It represent a browser or frame that displays the contents of the webpage
+2)It is loaded inside the window	2)It is the very first object that is loaded in browser
+3)It is the object of window 
+property	                        3)It is the object of the browser
+4)Elements with attribute in HTML 
+are the part of document	       4)Global objects, function and 
+                                   variable of java script are member of the window object
+5)We can access the document from 
+a window using the window document	5)We can access the window from the window only
+6)Document is the part of BOM and 
+DOM	                                6)Window is the part of BOM
+7)The properties document object 
+can accessed by the window
+	                                7)The properties of window object can’t accessed by the document object
+8)Object represents the HTML document
+ displayed in the window	
+                                    8)Window object is the top level object in client side java script and accessed from any script within the window
+9)Document object represent the
+ HTML document displayed that       9)Window object represent the browser
+                                    window
+                                                            
+10)Document.propertyname;	            10)Window.propertyname;
+
